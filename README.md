@@ -1,1 +1,1 @@
-# MathmaticalProgramming
+# MathematicalProgramming
